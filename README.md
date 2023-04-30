@@ -2,7 +2,7 @@
 This program take the input of an ISBN-10 or ISBN-13 and checks to see its validity. 
 
 
-ISBNs are comerically printed idetifiers for comerically printed books. Before 2007, they only contained 10 digits, but new ISBNs contain 13 digits. 
+ISBNs are comerically printed idetifiers for commercially printed books. Before 2007, they only contained 10 digits, but new ISBNs contain 13 digits. 
 
 ISBNs may have hyphens or spaces seperating various parts of the whole identifier, but this does not effect their validity. 
 
