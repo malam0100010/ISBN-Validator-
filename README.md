@@ -13,6 +13,7 @@ ISBN-13s have 12 characters and 1 check digit.
 The check digit is only number 0-9, however. 
 
 Valid ISBNs to test:
+
 0-486-63760-3 
 
 981-02-4897-0
@@ -24,6 +25,7 @@ Valid ISBNs to test:
 0-521-33781-x
 
 Invalid ISBNs to test:
+
 012345678
 
 01234567890
@@ -44,6 +46,7 @@ Valid ISBN-10
 Invalid ISBN-13
 
 Please enter an ISBN:
+
 01234567890X5
 
 Invalid ISBN-10
