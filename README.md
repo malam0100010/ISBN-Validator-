@@ -37,6 +37,7 @@ Invalid ISBNs to test:
 01234567890X5
 
 Sample Outputs:
+
 Please enter an ISBN:
 
 0-486-63760-3
